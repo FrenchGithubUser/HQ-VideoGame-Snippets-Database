@@ -9,9 +9,26 @@ So the goal of this database, is to provide some upscaled videos, so that the sn
 
 Here is an example with New Super Mario bros Wii
 
+Original resolution, up to 576p :
 ![](media/mario-bros-original.jpg)
-*<center>Original resolution : up to 576p</center>*
 
 
+Upscaled to 1080p and with custom textures :
 ![](media/mario-bros-upscaled.jpg)
-*<center>Upscaled to 1080p and with custom textures</center>*
+
+## How does it work ?
+
+Quite a lot of videos showcasing upscaled version of games (with and without texture packs) are already available on the internet. The biggest video platform for this is youtube. So instead of uploading and storing videos just for the database, what is stored is youtube video IDs, together with a timestamp of the snippet.
+
+### Structure of the database
+
+Every system is represented by a json file, each game for the system is like so :
+
+```
+{
+    "name": "Name Of The Game",
+    "id": "Id of the game, can be found online",
+    "videoId": "Id of the youtube video",
+    "timestamps": ["hh:mm:ss", "hh:mm:ss"]
+}
+```

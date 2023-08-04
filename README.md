@@ -3,20 +3,20 @@ Video games snippets in high resolution
 
 ## Why this project ?
 
-I have been playing around with emulators and game launchers like pegasus-fe, emulationstation, etc. which display snippets of the video games while browsing the library. That is very nice, but all snippets provider have videos in original resolution for the games. However, for many old consoles, emulators allow upscaling and custom textures, making the games look way better. 
+I have been playing around with emulators and game launchers like pegasus-fe, emulationstation, etc. which display snippets of the video games while browsing the library. That is very nice, but all snippets provider have videos in original resolution for the games. However, for many old consoles, emulators allow upscaling, custom textures and widescreen support, higher framerates, etc. , making the games look way better. 
 
 So the goal of this database, is to provide some upscaled videos, so that the snippets look better ! This may not fit everyone as some prefer the "authentic" look of the games, but no worries, this db is just an option among the others.
 
-Here is an example with New Super Mario bros Wii (click to enlarge) :
+Here is an example with Super Mario Sunshine on the GameCube (click to enlarge) :
 
-Original resolution, up to 576p :
+Original resolution, 480p :
 
-![](media/mario-bros-original.jpg)
+![](media/mario-sunshine-original.jpg)
 
 
-Upscaled to 1080p and with custom textures :
+Upscaled to 4k and with custom textures and widescreen :
 
-![](media/mario-bros-upscaled.jpg)
+![](media/mario-sunshine-improved.jpg)
 
 ## How does it work ?
 

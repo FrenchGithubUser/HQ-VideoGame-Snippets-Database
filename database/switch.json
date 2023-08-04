@@ -2,5 +2,24 @@
     "system": {
         "gameIdsLink": "https://switchbrew.org/w/index.php?title=Title_list/Games"
     },
-    "games": {}
+    "games": [
+        {
+            "name": "Super Mario Odyssey",
+            "id": "0100000000010000",
+            "videoId": "qGa2-YwI0c8",
+            "timestamps": [
+                "00:04:21",
+                "00:04:51"
+            ]
+        },
+        {
+            "name": "RAYMAN LEGENDS: DEFINITIVE EDITION",
+            "id": "01005FF002E2A000",
+            "videoId": "YXflioOpq4k",
+            "timestamps": [
+                "00:03:46",
+                "00:04:16"
+            ]
+        }
+    ]
 }

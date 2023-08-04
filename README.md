@@ -51,7 +51,7 @@ If the game you want to add is not referenced, go ahead ! Make sure you try to f
 A few other guidelines :
 
 - the video should not contain commentary, only music and dialogues from the game itself
-- the video snippet should be 30s (timestamp1 - timestamp2 = 00:00:30)
+- the video snippet should be in between 20s and 30s (timestamp2 - timestamp1), better if they are 30s
 - the snippet should contain some interesting playing action (avoid idle player moments), and should try to avoid spoilers
 - the video can have been recorded on another system as long as the gameplay is exactly the same as the one on the current system
 

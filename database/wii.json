@@ -1,0 +1,25 @@
+{
+    "system": {
+        "gameIdsLink": "https://www.gametdb.com/Wii/List"
+    },
+    "games": [
+        {
+            "name": "Super Mario Galaxy",
+            "id": "RMGP01",
+            "videoId": "ZNzg6Ah6MJ0",
+            "timestamps": [
+                "00:07:59",
+                "00:08:29"
+            ]
+        },
+        {
+            "name": "Super Mario Galaxy 2",
+            "id": "SB4E01",
+            "videoId": "HhQP0JTZJOI",
+            "timestamps": [
+                "00:05:10",
+                "00:08:40"
+            ]
+        }
+    ]
+}

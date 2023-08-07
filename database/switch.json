@@ -20,6 +20,51 @@
                 "00:03:46",
                 "00:04:16"
             ]
+        },
+        {
+            "name": "Captain Toad: Treasure Tracker",
+            "id": "01009BF0072D4000",
+            "videoId": "3ItfzKZP9KI",
+            "timestamps": [
+                "00:01:48",
+                "00:02:18"
+            ]
+        },
+        {
+            "name": "Mario Kart 8 Deluxe",
+            "id": "0100152000022000",
+            "videoId": "SXGejW4Ksus",
+            "timestamps": [
+                "00:20:36",
+                "00:21:06"
+            ]
+        },
+        {
+            "name": "New Super Mario Bros. U Deluxe",
+            "id": "0100EA80032EA000",
+            "videoId": "VIGDzkQLIKg",
+            "timestamps": [
+                "00:02:48",
+                "00:03:18"
+            ]
+        },
+        {
+            "name": "Luigi's Mansion 3",
+            "id": "0100DCA0064A6000",
+            "videoId": "WyvOlQsq_i0",
+            "timestamps": [
+                "00:34:12",
+                "00:34:42"
+            ]
+        },
+        {
+            "name": "Splatoon 3",
+            "id": "0100C2500FC20000",
+            "videoId": "131f1dRK4wc",
+            "timestamps": [
+                "00:37:06",
+                "00:37:36"
+            ]
         }
     ]
 }

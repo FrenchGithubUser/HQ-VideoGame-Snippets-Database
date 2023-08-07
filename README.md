@@ -63,4 +63,4 @@ Any feature can be suggested and discussed in the github issues tab
 
 - I am aware of the low bitrate that youtube videos have. However, in most cases it is not problematic and will still look way better than low resolution/high bitrate videos. In the future, there might be higher quality and more resilient options, but for now, this is a great way to store videos.
 
-- Downloading the snippets can be done with this command : `youtube-dl -f 'best' --postprocessor-args "-ss TIMESTAMP_1 -to TIMESTAMP_2" 'https://www.youtube.com/watch?v=VIDEO_ID'`
+- Downloading the snippets can be done with this command : `yt-dlp --download-sections "*TIMESTAMP_1-TIMESTAMP_2" --force-keyframes-at-cuts 'https://www.youtube.com/watch?v=VIDEO_ID'` This will only download the snippet and not the whole video.

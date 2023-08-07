@@ -1,7 +1,7 @@
-# VideoGame-Snippets-Database 
+# HQ-VideoGame-Snippets-Database 
 Video games snippets in high resolution
 
-## Why this project ?
+## Why this database ?
 
 I have been playing around with emulators and game launchers like pegasus-fe, emulationstation, etc. which display snippets of the video games while browsing the library. That is very nice, but all snippets provider have videos in original resolution for the games. However, for many old consoles, emulators allow upscaling, custom textures and widescreen support, higher framerates, etc. , making the games look way better. 
 
@@ -30,7 +30,7 @@ Every system is represented by a json file, each game for the system is like so 
 {
     "name": "Name Of The Game",
     "id": "Id of the game, can be found online",
-    "videoId": "Id of the youtube video",
+    "videoId": "Id of the youtube video (https://www.youtube.com/watch?v=VIDEO_ID)",
     "timestamps": ["hh:mm:ss", "hh:mm:ss"]
 }
 ```
@@ -63,4 +63,4 @@ Any feature can be suggested and discussed in the github issues tab
 
 - I am aware of the low bitrate that youtube videos have. However, in most cases it is not problematic and will still look way better than low resolution/high bitrate videos. In the future, there might be higher quality and more resilient options, but for now, this is a great way to store videos.
 
-- Downloading the snippets can be done with this command : `yt-dlp --download-sections "*TIMESTAMP_1-TIMESTAMP_2" --force-keyframes-at-cuts 'https://www.youtube.com/watch?v=VIDEO_ID'` This will only download the snippet and not the whole video.
+- Downloading the snippets can be done with this command : `yt-dlp --download-sections "*TIMESTAMP_1-TIMESTAMP_2" 'https://www.youtube.com/watch?v=VIDEO_ID'` This will only download the snippet and not the whole video.

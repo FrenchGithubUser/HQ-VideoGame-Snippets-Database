@@ -1,0 +1,16 @@
+{
+    "system": {
+        "gameIdsLink": "https://www.gametdb.com/Wii/List"
+    },
+    "games": [
+        {
+            "name": "Luigi's Mansion",
+            "id": "GLME01",
+            "videoId": "S1vHQrsfu90",
+            "timestamps": [
+                "00:07:51",
+                "00:08:21"
+            ]
+        }
+    ]
+}

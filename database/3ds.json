@@ -1,0 +1,17 @@
+{
+    "system": {
+        "gameIdsLink": "https://citra-emu.org/game/",
+        "notes": "Search for a game and click on it to see its id"
+    },
+    "games": [
+        {
+            "name": "Mario Kart 7",
+            "id": "0004000000030800",
+            "videoId": "U8F57FnLNts",
+            "timestamps": [
+                "00:06:35",
+                "00:07:05"
+            ]
+        }
+    ]
+}
